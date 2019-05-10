@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello GitHub
 ??
+=======
+Hello GitHub !
+>>>>>>> d4a889d28ae0cbb8bcc51db6eba39cc918f72f63
